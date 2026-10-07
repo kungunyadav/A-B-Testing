@@ -1,0 +1,26 @@
+{
+  "n_control": 5000,
+  "n_treatment": 5000,
+  "conversions_control": 479,
+  "conversions_treatment": 625,
+  "rate_control": 0.0958,
+  "rate_treatment": 0.125,
+  "absolute_diff_pct_points": 2.92,
+  "relative_lift_pct": 30.48,
+  "chi2_statistic": 21.7041,
+  "chi2_p_value": 3e-06,
+  "z_statistic": 4.6588,
+  "z_p_value": 3e-06,
+  "cohens_h": 0.0934,
+  "diff_ci_95_low": 1.69,
+  "diff_ci_95_high": 4.15,
+  "control_ci_95": [
+    8.79,
+    10.43
+  ],
+  "treatment_ci_95": [
+    11.61,
+    13.45
+  ],
+  "significant_at_95": true
+}
